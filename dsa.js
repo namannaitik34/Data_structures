@@ -446,18 +446,6 @@ console.log(reverseAString("naitik"));
 console.log(reverseAString("mygym"));
 console.log(reverseAString("utkarsh"));
 console.log(reverseAString("ritik"));
-console.log(reverseAString("abhishek"));
-
-
-
-
-
-
-
-
-
-
-
 
 
 
