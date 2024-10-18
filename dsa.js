@@ -445,7 +445,7 @@ console.log(reverseAString("naman"));
 console.log(reverseAString("naitik"));
 console.log(reverseAString("mygym"));
 console.log(reverseAString("utkarsh"));
-console.log(reverseAString("ritik"));
+
 
 
 
